@@ -1,4 +1,2 @@
-***linux cli basics
-file systems
-permissions
+## linux cli basics, file systems, permissions
 ***
